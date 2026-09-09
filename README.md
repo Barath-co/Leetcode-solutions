@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Barath-co/Leetcode-solutions/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Barath-co/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Barath-co/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Barath-co/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
