@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Barath-co/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Barath-co/Leetcode-solutions/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Barath-co/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Barath-co/Leetcode-solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Barath-co/Leetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Barath-co/Leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
