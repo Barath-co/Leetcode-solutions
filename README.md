@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Barath-co/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Barath-co/Leetcode-solutions/tree/master/0322-coin-change) |
 | [2614-prime-in-diagonal](https://github.com/Barath-co/Leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Barath-co/Leetcode-solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Barath-co/Leetcode-solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/Barath-co/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
