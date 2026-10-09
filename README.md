@@ -103,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/Barath-co/Leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+## String
+|  |
+| ------- |
+| [2810-faulty-keyboard](https://github.com/Barath-co/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
+## Simulation
+|  |
+| ------- |
+| [2810-faulty-keyboard](https://github.com/Barath-co/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
