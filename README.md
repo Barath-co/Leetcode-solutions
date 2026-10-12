@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Barath-co/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Barath-co/Leetcode-solutions/tree/master/0322-coin-change) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2614-prime-in-diagonal](https://github.com/Barath-co/Leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Barath-co/Leetcode-solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Barath-co/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Barath-co/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Barath-co/Leetcode-solutions/tree/master/0322-coin-change) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2614-prime-in-diagonal](https://github.com/Barath-co/Leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
@@ -116,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Barath-co/Leetcode-solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/Barath-co/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
+## Two Pointers
+|  |
+| ------- |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+## Union-Find
+|  |
+| ------- |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+## Sorting
+|  |
+| ------- |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
