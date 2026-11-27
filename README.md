@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Barath-co/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Barath-co/Leetcode-solutions/tree/master/0322-coin-change) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Barath-co/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0018-4sum) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Union-Find
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0018-4sum) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
