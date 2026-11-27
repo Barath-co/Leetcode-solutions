@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Barath-co/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Barath-co/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Barath-co/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Barath-co/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2614-prime-in-diagonal](https://github.com/Barath-co/Leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Barath-co/Leetcode-solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/Barath-co/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Barath-co/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Union-Find
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/Barath-co/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Barath-co/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Barath-co/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Barath-co/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
 | ------- |
