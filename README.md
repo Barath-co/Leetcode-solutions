@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Barath-co/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Barath-co/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Barath-co/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Barath-co/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Barath-co/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Barath-co/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Barath-co/Leetcode-solutions/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/Barath-co/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Barath-co/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Barath-co/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Barath-co/Leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
